@@ -1,0 +1,37 @@
+Number of patterns: 26
+
+Patterns:
+alpha
+beta
+gamma
+delta
+epsilon
+zeta
+eta
+theta
+iota
+kappa
+lambda
+mu
+nu
+xi
+omicron
+pi
+rho
+sigma
+tau
+upsilon
+phi
+chi
+psi
+omega
+cap1
+cap2
+
+Rows: 10
+Columns: 8
+
+c: 0.5
+lambda: 0.5
+epsilon: 0.01
+n: 10
